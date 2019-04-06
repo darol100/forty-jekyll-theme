@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Be the best player
+description: Be strong to achieve the goal as the first
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

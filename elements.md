@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Elements
+layout: post
+title: Tournaments
+image: tournamnets.JPG
 nav-menu: true
 ---
 
