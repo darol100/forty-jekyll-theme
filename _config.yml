@@ -1,17 +1,18 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Mikes
+subtitle: Idea
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: hello
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 'Road 174 #170 Minillas Industrial Park'
+
+city: Bayamon
+state: PR
+zip_code: 00959
 country: United States of America
-phone: (716) 555-5555
+phone: '787-779-4550'
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
